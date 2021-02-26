@@ -4,7 +4,7 @@
     "meta": {
         "label": "kdb+",
 
-        "description": "Provides a SQL dialect to read tables from kdb+",
+        "description": "Provides an experimental SQL dialect to read tables from kdb+",
 
         "author": "Dataiku",
 
