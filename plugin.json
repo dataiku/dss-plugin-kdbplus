@@ -15,5 +15,6 @@
         "url": "https://www.datiaku.com",
 
         "licenseInfo": "Apache Software License"
-    }
+    },
+    "featureFlags":  ["kdbplus"]
 }
